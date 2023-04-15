@@ -16,6 +16,10 @@
     "plugins": [
         "react"
     ],
+    "ignorePatterns": [
+        "**/*.html",
+        "**/**.json"
+    ],
     "rules": {
         "no-irregular-whitespace": 0,
         "linebreak-style": 0,
