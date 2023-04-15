@@ -18,7 +18,7 @@ export const leftContainerStyle = {
 export const rightContainerStyle = {
   display: 'flex',
   justifyContent: 'end',
-  paddingRight: '50px',
+  paddingRight: '26px',
 };
 
 export const navigationTitleStyle = {
