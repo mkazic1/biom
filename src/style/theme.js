@@ -40,6 +40,12 @@ const theme = createTheme({
     h2: {
       fontFamily: headingFont,
     },
+    h3: {
+      fontFamily: headingFont,
+    },
+    h4: {
+      fontFamily: headingFont,
+    },
   },
 
   components: {

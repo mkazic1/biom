@@ -3,30 +3,39 @@ export const backgroundStyle = {
   backgroundRepeat: 'no-repeat',
   height: '100vh',
   width: '100%',
-  borderRadius: '14px',
 };
 
 export const containerStyle = {
-  paddingTop: '68px',
-  paddingX: '25px',
   width: '100%',
   boxSizing: 'border-box',
 };
 
 export const contentStyle = {
-  paddingTop: '190px',
-  paddingLeft: '85px',
+  paddingTop: '103px',
+  paddingLeft: '735px',
+  paddingRight: '44px',
 };
 
 export const textAndButtonStyle = {
-  color: 'text.secondary',
+  color: 'text.primary',
   marginTop: '14px',
   width: '460px',
   height: '220px',
 };
 
 export const titleStyle = {
-  width: '270px',
+  width: '100%',
   height: '150px',
-  color: 'text.secondary',
+  color: 'text.primary',
+};
+
+export const iconStyle = {
+  width: '69px',
+  height: '67px',
+};
+
+export const iconsTextBoxStyle = {
+  display: 'flex',
+  justifyContent: 'start',
+  alignItems: 'center',
 };
