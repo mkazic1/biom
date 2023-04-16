@@ -12,13 +12,13 @@ export const containersStyle = {
 export const leftContainerStyle = {
   display: 'flex',
   justifyContent: 'start',
-  paddingLeft: '26px',
+  paddingLeft: '50px',
 };
 
 export const rightContainerStyle = {
   display: 'flex',
   justifyContent: 'end',
-  paddingRight: '26px',
+  paddingRight: '50px',
 };
 
 export const navigationTitleStyle = {
