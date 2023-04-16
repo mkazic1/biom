@@ -2,6 +2,9 @@ export const appBarStyle = {
   height: '68px',
   bgcolor: 'secondary.light',
   boxShadow: 'none',
+  backdropFilter: 'blur(5px)',
+  backgroundColor: 'rgba(255, 255, 255, 0.8)',
+  transition: 'backdrop-filter 0.5s',
 };
 
 export const containersStyle = {
