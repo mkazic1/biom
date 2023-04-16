@@ -31,7 +31,7 @@ export const navigationTitleStyle = {
 };
 
 export const logoStyle = {
-  width: '92px',
+  width: '95px',
   height: '30px',
   paddingTop: '19px',
   paddingBottom: '19px',
