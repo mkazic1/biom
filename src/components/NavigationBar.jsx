@@ -6,7 +6,7 @@ import {
   CardMedia,
   Box,
 } from '@mui/material';
-import Logo from '../assets/logo.jpg';
+import Logo from '../assets/logo.png';
 import Cart from '../assets/cart2.png';
 import {
   appBarStyle,
