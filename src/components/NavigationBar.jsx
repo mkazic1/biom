@@ -23,7 +23,7 @@ const NavigationBar = () => (
     <Box sx={containersStyle}>
       <Container maxWidth="false" style={leftContainerStyle}>
         <Box>
-          <Toolbar variant="dense" style={{ paddinLeft: '0px' }}>
+          <Toolbar variant="dense" style={{ paddingLeft: '0px' }}>
             <Typography
               sx={navigationTitleStyle}
             >
@@ -50,7 +50,7 @@ const NavigationBar = () => (
       />
       <Container maxWidth="false" style={rightContainerStyle}>
         <Box>
-          <Toolbar variant="dense">
+          <Toolbar variant="dense" style={{ paddingRight: '0px' }}>
             <Typography
               sx={navigationTitleStyle}
             >
