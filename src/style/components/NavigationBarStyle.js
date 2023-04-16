@@ -12,13 +12,13 @@ export const containersStyle = {
 export const leftContainerStyle = {
   display: 'flex',
   justifyContent: 'start',
-  paddingLeft: '26px',
+  paddingLeft: '50px',
 };
 
 export const rightContainerStyle = {
   display: 'flex',
   justifyContent: 'end',
-  paddingRight: '26px',
+  paddingRight: '50px',
 };
 
 export const navigationTitleStyle = {
@@ -31,7 +31,7 @@ export const navigationTitleStyle = {
 };
 
 export const logoStyle = {
-  width: '92px',
+  width: '95px',
   height: '30px',
   paddingTop: '19px',
   paddingBottom: '19px',
