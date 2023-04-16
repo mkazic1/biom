@@ -22,7 +22,7 @@ export const textAndButtonStyle = {
   color: 'text.secondary',
   marginTop: '14px',
   width: '460px',
-  height: '113px',
+  height: '220px',
 };
 
 export const titleStyle = {
