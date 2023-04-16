@@ -8,7 +8,7 @@ export const backgroundStyle = {
 
 export const containerStyle = {
   paddingTop: '68px',
-  paddingX: '14px',
+  paddingX: '25px',
   width: '100%',
   boxSizing: 'border-box',
 };
