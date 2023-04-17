@@ -2,6 +2,7 @@ import Providers from './providers';
 import NavigationBar from './components/NavigationBar';
 import GetStartedPage from './pages/GetStartedPage';
 import MeetBiomPage from './pages/MeetBiomPage';
+import Footer from './components/Footer';
 import theme from './style/theme';
 
 const App = () => (
@@ -9,6 +10,7 @@ const App = () => (
     <NavigationBar />
     <GetStartedPage />
     <MeetBiomPage />
+    <Footer />
   </Providers>
 );
 
