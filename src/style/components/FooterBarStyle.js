@@ -1,7 +1,7 @@
 export const containersStyle = {
   display: 'flex',
   justifyContent: 'center',
-  borderBottom: 'solid 3px #004A4C',
+  borderBottom: 'solid 2px #004A4C',
   paddingBottom: '40px',
 };
 
@@ -45,8 +45,8 @@ export const facebookIcon = {
 };
 
 export const iconBackgroundStyle = {
-  width: '44px',
-  height: '38px',
+  width: '30px',
+  height: '30px',
   backgroundColor: 'secondary.main',
   borderRadius: '50%',
   display: 'flex',
