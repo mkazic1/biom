@@ -4,7 +4,7 @@ export const containerStyle = {
   display: 'flex',
   backgroundColor: 'secondary.light',
   color: 'text.primary',
-  marginTop: '18px',
+  marginBottom: '80px',
   paddingLeft: '15px',
   borderRadius: '6px',
   border: 'solid 1px #002D33',
