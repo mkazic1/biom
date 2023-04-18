@@ -29,5 +29,4 @@ export const iconBackgroundStyle = {
 export const textStyle = {
   display: 'flex',
   alignItems: 'center',
-  flexWrap: 'nowrap',
 };
