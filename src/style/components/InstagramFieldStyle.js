@@ -1,23 +1,27 @@
 export const containerStyle = {
-  width: '440px',
-  display: 'flex',
+  width: '325px',
   justifyContent: 'space-between',
+  display: 'flex',
   backgroundColor: 'secondary.light',
-  padding: '10px',
-  marginTop: '18px',
+  color: 'text.primary',
+  marginBottom: '80px',
+  paddingLeft: '15px',
   borderRadius: '6px',
+  border: 'solid 1px #002D33',
 };
 
 export const iconStyle = {
   width: '18px',
-  height: '12px',
+  height: '18px',
 };
 
 export const iconBackgroundStyle = {
-  width: '44px',
-  height: '38px',
-  backgroundColor: 'primary.light',
-  borderRadius: '6px',
+  width: '40px',
+  height: '40px',
+  backgroundColor: 'secondary.light',
+  borderRadius: '0px 6px 6px 0px',
+  borderLeft: 'solid 1px #002D33',
+  padding: '10px',
   display: 'flex',
   alignItems: 'center',
   justifyContent: 'center',
@@ -29,4 +33,6 @@ export const iconBackgroundStyle = {
 export const textStyle = {
   display: 'flex',
   alignItems: 'center',
+  fontWeight: 'bold',
+  letterSpacing: '1.2px',
 };
