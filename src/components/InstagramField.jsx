@@ -10,7 +10,6 @@ import {
 const InstagramField = () => (
   <Box sx={containerStyle}>
     <Typography sx={textStyle}>FOLLOW US ON INSTAGRAM</Typography>
-    <Box sx={{ borderLeft: 'solid 1px #002D33' }} />
     <Box sx={iconBackgroundStyle}>
       <CardMedia
         image={instagramIcon}

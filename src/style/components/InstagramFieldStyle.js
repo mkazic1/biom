@@ -1,13 +1,13 @@
 export const containerStyle = {
-  width: '330px',
-  display: 'flex',
+  width: '325px',
   justifyContent: 'space-between',
+  display: 'flex',
   backgroundColor: 'secondary.light',
   color: 'text.primary',
   marginTop: '18px',
+  paddingLeft: '15px',
   borderRadius: '6px',
   border: 'solid 1px #002D33',
-  paddingLeft: '15px',
 };
 
 export const iconStyle = {
@@ -16,11 +16,11 @@ export const iconStyle = {
 };
 
 export const iconBackgroundStyle = {
-  width: '44px',
-  height: '38px',
+  width: '40px',
+  height: '40px',
   backgroundColor: 'secondary.light',
-  border: 'none',
-  margin: '0.3px',
+  borderRadius: '0px 6px 6px 0px',
+  borderLeft: 'solid 1px #002D33',
   padding: '10px',
   display: 'flex',
   alignItems: 'center',
@@ -34,4 +34,5 @@ export const textStyle = {
   display: 'flex',
   alignItems: 'center',
   fontWeight: 'bold',
+  letterSpacing: '1.2px',
 };
