@@ -1,5 +1,5 @@
 export const containerStyle = {
-  paddingTop: '80px',
+  marginTop: '80px',
   height: '100%',
   width: '100%',
   boxSizing: 'border-box',
