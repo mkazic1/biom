@@ -46,7 +46,7 @@ const MeetBiomPage = () => (
               component="img"
               sx={iconStyle}
             />
-            <Typography variant="h6" sx={{ marginLeft: '23px' }}>Beautiful design, fit for your home</Typography>
+            <Typography variant="h6" sx={{ marginLeft: '23px' }}>Durable stainless steel exterior</Typography>
           </Box>
           <Box sx={{ ...iconsTextBoxStyle, marginTop: '35px' }}>
             <CardMedia
@@ -55,7 +55,7 @@ const MeetBiomPage = () => (
               component="img"
               sx={iconStyle}
             />
-            <Typography variant="h6" sx={{ marginLeft: '23px' }}>Beautiful design, fit for your home</Typography>
+            <Typography variant="h6" sx={{ marginLeft: '23px' }}>Non-toxic, BPA free</Typography>
           </Box>
           <Button variant="contained" sx={{ marginTop: '45px' }}>SHOP NOW</Button>
         </Box>
