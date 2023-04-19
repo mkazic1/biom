@@ -3,6 +3,7 @@ import NavigationBar from './components/NavigationBar';
 import GetStartedPage from './pages/GetStartedPage';
 import MeetBiomPage from './pages/MeetBiomPage';
 import SpacesHorizontalGallery from './components/SpacesHorizontalGallery';
+import FeedbackPage from './pages/FeedbackPage';
 import OceanPage from './pages/OceanPage';
 import InstagramSection from './pages/InstagramSection';
 import Footer from './components/Footer';
@@ -15,6 +16,7 @@ const App = () => (
     <GetStartedPage />
     <MeetBiomPage />
     <SpacesHorizontalGallery />
+    <FeedbackPage />
     <BiomWipesPage />
     <OceanPage />
     <InstagramSection />
