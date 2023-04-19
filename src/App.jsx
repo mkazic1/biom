@@ -2,6 +2,7 @@ import Providers from './providers';
 import NavigationBar from './components/NavigationBar';
 import GetStartedPage from './pages/GetStartedPage';
 import MeetBiomPage from './pages/MeetBiomPage';
+import SpacesHorizontalGallery from './components/SpacesHorizontalGallery';
 import OceanPage from './pages/OceanPage';
 import InstagramSection from './pages/InstagramSection';
 import Footer from './components/Footer';
@@ -12,6 +13,7 @@ const App = () => (
     <NavigationBar />
     <GetStartedPage />
     <MeetBiomPage />
+    <SpacesHorizontalGallery />
     <OceanPage />
     <InstagramSection />
     <Footer />
