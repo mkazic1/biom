@@ -7,6 +7,7 @@ import OceanPage from './pages/OceanPage';
 import InstagramSection from './pages/InstagramSection';
 import Footer from './components/Footer';
 import theme from './style/theme';
+import BiomWipesPage from './pages/BiomWipesPage';
 
 const App = () => (
   <Providers theme={theme}>
@@ -14,6 +15,7 @@ const App = () => (
     <GetStartedPage />
     <MeetBiomPage />
     <SpacesHorizontalGallery />
+    <BiomWipesPage />
     <OceanPage />
     <InstagramSection />
     <Footer />
