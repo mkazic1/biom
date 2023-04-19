@@ -28,7 +28,7 @@ const items = [
   },
   {
     img: AdobeStockHand,
-    title: 'AdobeStockGirl',
+    title: 'AdobeStockHand',
   },
 ];
 

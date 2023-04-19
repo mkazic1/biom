@@ -4,7 +4,6 @@ export const containerStyle = {
   justifyContent: 'space-around',
   height: '290px',
   width: '100%',
-  background: 'background.paper',
   marginTop: '50px',
   marginBottom: '40px',
   overflowX: 'auto',
