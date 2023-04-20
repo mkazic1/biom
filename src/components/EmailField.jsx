@@ -13,7 +13,7 @@ const EmailField = () => (
     <Box sx={iconBackgroundStyle}>
       <CardMedia
         image={arrowIcon}
-        alt="DurableImage"
+        alt="ArrowImage"
         component="img"
         sx={iconStyle}
       />

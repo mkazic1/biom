@@ -12,15 +12,16 @@ export const containerStyle = {
 
 export const contentStyle = {
   paddingTop: '103px',
-  paddingLeft: '735px',
-  paddingRight: '44px',
+  paddingLeft: '50%',
+  paddingRight: '5%',
+  maxWidth: '1300px',
+  margin: '0 auto',
 };
 
 export const textAndButtonStyle = {
   color: 'text.primary',
   marginTop: '14px',
-  width: '460px',
-  height: '220px',
+  maxWidth: '460px',
 };
 
 export const titleStyle = {
@@ -38,4 +39,6 @@ export const iconsTextBoxStyle = {
   display: 'flex',
   justifyContent: 'start',
   alignItems: 'center',
+  flexWrap: 'wrap',
+  gap: '20px',
 };

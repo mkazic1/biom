@@ -1,6 +1,4 @@
-import {
-  Box, Typography,
-} from '@mui/material';
+import { Box, Typography } from '@mui/material';
 import InstagramField from '../components/InstagramField';
 import InstagramHorizontalGallery from '../components/InstagramHorizontalGallery';
 import {

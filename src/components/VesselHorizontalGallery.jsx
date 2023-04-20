@@ -1,11 +1,12 @@
-import React from 'react';
+import { Box } from '@mui/material';
 import List from '@mui/material/List';
 import Stack from '@mui/material/Stack';
 import ImageListItem from '@mui/material/ImageListItem';
-import { Box } from '@mui/material';
 import vesselImages from '../constants/vesselImages';
 import {
-  containerStyle, galleryStyle, imageStyle,
+  containerStyle,
+  galleryStyle,
+  imageStyle,
 } from '../style/components/VesselHorizontalGalleryStyle';
 
 const VesselHorizontalGallery = () => (
