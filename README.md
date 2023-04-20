@@ -18,7 +18,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Additional information for reviewers:
-- App runs locally on [http://localhost:3000](http://localhost:3000) as mentiones.
+- App runs locally on [http://localhost:3000](http://localhost:3000) as mentioned.
 ### Tech stack:
 - `ReactJS` (version 18.2.0)
 - `Material UI` used as design framework (version 5.12.0)
