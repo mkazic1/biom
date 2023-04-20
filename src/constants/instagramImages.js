@@ -9,26 +9,32 @@ const items = [
   {
     img: AdobeStockGirl,
     title: 'AdobeStockGirl',
+    id: 0,
   },
   {
     img: Wipe,
     title: 'Wipe',
+    id: 1,
   },
   {
     img: Kitchen,
     title: 'Kitchen',
+    id: 2,
   },
   {
     img: Chair,
     title: 'Chair',
+    id: 3,
   },
   {
     img: Biom,
     title: 'Biom',
+    id: 4,
   },
   {
     img: AdobeStockHand,
     title: 'AdobeStockHand',
+    id: 5,
   },
 ];
 
