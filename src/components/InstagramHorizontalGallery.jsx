@@ -10,7 +10,14 @@ const InstagramHorizontalGallery = () => (
   <Box sx={containerStyle}>
     <List component={Stack} direction="row">
       {instagramImages.map((item) => (
-        <ImageListItem key={item.img} sx={imageStyle}>
+        <ImageListItem
+          key={item.img}
+          sx={{
+            ...imageStyle,
+            marginTop: item.id % 2 !== 0 ? '40px' : '0px',
+            marginBottom: item.id % 2 === 0 ? '40px' : '0px',
+          }}
+        >
           <img src={item.img} alt={item.title} />
         </ImageListItem>
       ))}
