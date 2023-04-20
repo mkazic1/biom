@@ -1,7 +1,7 @@
 import { Box, Typography } from '@mui/material';
 import ChooseVesselField from '../components/ChooseVesselField';
-import { containerStyle, headingStyle } from '../style/pages/VesselColorsPageStyle';
 import VesselHorizontalGallery from '../components/VesselHorizontalGallery';
+import { containerStyle, headingStyle } from '../style/pages/VesselColorsPageStyle';
 
 const VesselColorsPage = () => (
   <Box sx={containerStyle}>

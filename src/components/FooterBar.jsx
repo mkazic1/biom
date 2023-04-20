@@ -4,9 +4,9 @@ import {
   CardMedia,
   Box,
 } from '@mui/material';
-import Logo from '../assets/logo.png';
-import Instagram from '../assets/Icon ionic-logo-instagram.png';
-import Facebook from '../assets/Icon awesome-facebook-f.png';
+import logoImage from '../assets/logo.png';
+import instagramLogo from '../assets/Icon ionic-logo-instagram.png';
+import facebookLogo from '../assets/Icon awesome-facebook-f.png';
 import {
   containersStyle,
   navigationTitleStyle,
@@ -40,7 +40,7 @@ const FooterBar = () => (
         </Toolbar>
       </Box>
       <CardMedia
-        image={Logo}
+        image={logoImage}
         alt="LogoImage"
         component="img"
         sx={logoStyle}
@@ -76,16 +76,16 @@ const FooterBar = () => (
       <Box sx={{ display: 'flex', justifyConten: 'space-between' }}>
         <Box sx={{ ...iconBackgroundStyle, marginRight: '15px' }}>
           <CardMedia
-            image={Instagram}
-            alt="Instagram"
+            image={instagramLogo}
+            alt="InstagramLogo"
             component="img"
             sx={instagramIcon}
           />
         </Box>
         <Box sx={iconBackgroundStyle}>
           <CardMedia
-            image={Facebook}
-            alt="Instagram"
+            image={facebookLogo}
+            alt="FacebookLogo"
             component="img"
             sx={facebookIcon}
           />

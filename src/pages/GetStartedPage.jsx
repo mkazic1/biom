@@ -1,8 +1,4 @@
-import {
-  Typography,
-  Box,
-  Button,
-} from '@mui/material';
+import { Typography, Box, Button } from '@mui/material';
 import backgroundImg from '../assets/Kitchen_3.jpg';
 import {
   backgroundStyle,

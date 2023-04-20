@@ -1,11 +1,13 @@
-import React from 'react';
+import { Box, Typography } from '@mui/material';
 import List from '@mui/material/List';
 import Stack from '@mui/material/Stack';
 import ImageListItem from '@mui/material/ImageListItem';
-import { Box, Typography } from '@mui/material';
 import spacesImages from '../constants/spacesImages';
 import {
-  containerStyle, contentStyle, galleryStyle, imageStyle,
+  containerStyle,
+  contentStyle,
+  galleryStyle,
+  imageStyle,
 } from '../style/components/SpacesHorizontalGalleryStyle';
 
 const SpacesHorizontalGallery = () => (

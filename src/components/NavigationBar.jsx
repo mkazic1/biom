@@ -6,8 +6,8 @@ import {
   CardMedia,
   Box,
 } from '@mui/material';
-import Logo from '../assets/logo.png';
-import Cart from '../assets/cart2.png';
+import logoImage from '../assets/logo.png';
+import cartImage from '../assets/cart2.png';
 import {
   appBarStyle,
   leftContainerStyle,
@@ -43,7 +43,7 @@ const NavigationBar = () => (
         </Box>
       </Container>
       <CardMedia
-        image={Logo}
+        image={logoImage}
         alt="LogoImage"
         component="img"
         sx={logoStyle}
@@ -62,7 +62,7 @@ const NavigationBar = () => (
               CART
             </Typography>
             <CardMedia
-              image={Cart}
+              image={cartImage}
               alt="CartImage"
               component="img"
               sx={cartStyle}

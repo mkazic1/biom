@@ -1,8 +1,7 @@
-import React from 'react';
+import { Box } from '@mui/material';
 import List from '@mui/material/List';
 import Stack from '@mui/material/Stack';
 import ImageListItem from '@mui/material/ImageListItem';
-import { Box } from '@mui/material';
 import instagramImages from '../constants/instagramImages';
 import { containerStyle, imageStyle } from '../style/components/InstagramHorizontalGalleryStyle';
 

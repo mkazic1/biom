@@ -1,6 +1,4 @@
-import {
-  Box, Typography,
-} from '@mui/material';
+import { Box, Typography } from '@mui/material';
 import backgroundImg from '../assets/Biom_wipe_2.png';
 import EmailField from './EmailField';
 import FooterBar from './FooterBar';
