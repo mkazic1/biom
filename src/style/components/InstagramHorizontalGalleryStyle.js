@@ -2,7 +2,7 @@ export const containerStyle = {
   display: 'flex',
   flexDirection: 'row',
   justifyContent: 'space-around',
-  height: '290px',
+  height: '300px',
   width: '100%',
   marginTop: '50px',
   marginBottom: '40px',
@@ -13,7 +13,7 @@ export const containerStyle = {
 };
 
 export const imageStyle = {
-  height: '270px',
+  height: '300px',
   width: '270px',
   paddingLeft: '30px',
 };
