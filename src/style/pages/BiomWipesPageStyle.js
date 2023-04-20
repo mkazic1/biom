@@ -12,7 +12,7 @@ export const contentStyle = {
   height: '606px',
   width: '858px',
   paddingTop: '60px',
-  paddingLeft: '222px',
+  paddingX: '10%',
   marginTop: '40px',
   borderRadius: '0px 12px 12px 0px',
 };
